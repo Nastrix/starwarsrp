@@ -1,0 +1,16 @@
+"starwarsrp"
+{
+	"base"		"sandbox"
+    "title"  "starwarsrp"
+    "version"   "2.7.0"
+    "menusystem"	"1"
+    "workshopid"	"248302805"
+
+    "author_name"   "FPtje Falco et al."
+    "author_email"  ""
+    "author_url"    "https://github.com/FPtje/DarkRP"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
